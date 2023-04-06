@@ -12,6 +12,6 @@ package com.mycompany.gitproject;
 public class GitProject {
 
     public static void main(String[] args) {
-        System.out.println("Hello LOTFI ya kaka  !!!");
+        System.out.println("Hello LOTFI ya hallouf !!!");
     }
 }
